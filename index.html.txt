@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Happy Birthday</title>
+	<style>
+		body {
+			background-color: #6a5acd;
+			font-family: Arial, sans-serif;
+			color: #fff;
+		}
+		
+		h1 {
+			color: #fff;
+			text-align: center;
+			margin-top: 40vh;
+			font-size: 4em;
+			display: none;
+		}
+		
+		p {
+			color: #fff;
+			text-align: center;
+			font-family: "Brush Script MT", cursive;
+			font-size: 5em;
+			margin-bottom: 20vh;
+		}
+	</style>
+</head>
+<body>
+	<p>I love you</p>
+</body>
+</html>
